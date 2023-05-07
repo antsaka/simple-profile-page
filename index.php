@@ -17,7 +17,7 @@
         <p class="full-name">Antonio Passaka A.W</p>
         <p class="role">UX/UI Developer</p>
         <p class="description">
-            Hi there! Lorem ipsum dolor, sit amet consectetur adipisicing elit. In necessitatibus illum tenetur nostrum harum dolore itaque et amet.
+            Hi there! I am Saka from Industrial Engineering at Telkom University.
         </p>
         <div class="social-container">
             <a href="https://github.com/example" target="_blank"><button><i class="fab fa-github"></i></button></a>
